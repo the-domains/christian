@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[christian]]></title>
         <description><![CDATA[christian]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 07:16:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 07:35:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e93ec8c-10b7-491c-99e6-c54e74f667fb.jpg">]]></description>
+            <link>https://thegrid.ai/christian/92cafd5b-e18c-4f72-a6e4-2a0e5085afe8/index.html</link>
+            <guid isPermaLink="false">92cafd5b-e18c-4f72-a6e4-2a0e5085afe8</guid>
+            <pubDate>Tue, 08 Mar 2016 07:35:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41ea1e73-a38b-488f-a234-94871e5e3ced.jpg">]]></description>
-            <link>undefined9eb8f348-1903-4852-9beb-4bfcd2a17b0c/index.html</link>
+            <link>https://thegrid.ai/christian/9eb8f348-1903-4852-9beb-4bfcd2a17b0c/index.html</link>
             <guid isPermaLink="false">9eb8f348-1903-4852-9beb-4bfcd2a17b0c</guid>
             <pubDate>Tue, 08 Mar 2016 07:16:14 GMT</pubDate>
         </item>
