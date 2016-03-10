@@ -1,6 +1,6 @@
 name: christian
 favicon: null
-layout_spectrum: 0.91287
+layout_spectrum: 0.14769
 typography_spectrum: 0.9373869732953608
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
 color:
   brandColors:
     - '#000000'
-    - '#c0c8ef'
-    - '#fe2500'
-    - '#fe7d00'
-    - '#52354f'
-  brandStrength: 0.3125
+    - '#68d9e7'
+    - '#fdfdfe'
+    - '#265a89'
+    - '#e75100'
+  brandStrength: 0.5625
   lightness: 0.5628689264412969
   saturation: 0.4755734133068472
-  rhythmicContrast: 0.2599560609087348
+  rhythmicContrast: 0.5
 purpose: []
